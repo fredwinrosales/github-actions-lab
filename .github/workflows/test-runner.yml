@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Print message
-        run: echo "✅ Hola desde tu runner en EC2"
+        run: echo "✅ Hola desde tu runner en EC2!"
